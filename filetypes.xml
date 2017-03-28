@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gpx" type="PHP" />
-      <mapping ext="urls" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="sites" type="PLAIN_TEXT" />
+      <mapping ext="urls" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
