@@ -12,6 +12,6 @@
       </list>
     </option>
     <option name="lastOpenedScratch" value="&amp;scratch.txt" />
-    <option name="needMigration" value="false" />
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
