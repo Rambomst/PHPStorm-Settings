@@ -18,6 +18,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1e6f0a6f-f140-4e0c-8d27-b299dfbaa1ff" name="Dev VM" url="http://pat.dev.sentral.com.au">
+        <fileTransfer host="pat.dev.sentral.com.au" port="22" rootFolder="/sentral" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
