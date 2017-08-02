@@ -10,7 +10,7 @@
       <webServer id="d3f18469-c7ce-431c-a4cf-d605e49dd1c1" name="Sentral (2)" url="http://pat.dev.sentral.com.au">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="5d5749bb-abba-4746-a499-86e955f2d959" name="Dev VM" url="http://10.24.202.7:8888">
+      <webServer id="5d5749bb-abba-4746-a499-86e955f2d959" name="Dev VM Messaging" url="http://10.24.202.7:8888">
         <fileTransfer host="10.24.202.7" port="22" rootFolder="/usr/messaging-api" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
