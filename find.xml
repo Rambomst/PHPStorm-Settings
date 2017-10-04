@@ -16,8 +16,8 @@
       <mask>*.php</mask>
       <mask>cache.inc</mask>
       <mask>rewrite.conf</mask>
-      <mask>*.tpl</mask>
       <mask>Version*</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
