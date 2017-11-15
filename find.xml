@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Version*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,6 +21,8 @@
       <mask>*module*</mask>
       <mask>*.gpx</mask>
       <mask>*.tpl</mask>
+      <mask>*migration*</mask>
+      <mask>*Version*</mask>
     </recentFileMasks>
   </component>
 </application>
