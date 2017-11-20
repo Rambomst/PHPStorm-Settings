@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,11 +20,11 @@
       <mask>*.php</mask>
       <mask>*module*</mask>
       <mask>*.gpx</mask>
-      <mask>*.tpl</mask>
       <mask>*migration*</mask>
       <mask>*Version*</mask>
       <mask>.class.php</mask>
       <mask>*.class.php</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
