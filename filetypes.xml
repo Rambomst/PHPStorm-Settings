@@ -4,6 +4,7 @@
       <mapping ext="lang" type="JSON" />
       <mapping ext="gpx" type="PHP" />
       <mapping pattern=".config.class.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="diff" type="PLAIN_TEXT" />
       <mapping ext="sites" type="PLAIN_TEXT" />
       <mapping ext="urls" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
