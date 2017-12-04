@@ -22,8 +22,8 @@
       <mask>*migration*</mask>
       <mask>*Version*</mask>
       <mask>.class.php</mask>
-      <mask>*.tpl</mask>
       <mask>*.class.php</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
