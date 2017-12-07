@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*task*" />
+    <option name="FILE_MASK" value="*.class.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,10 +22,10 @@
       <mask>*.gpx</mask>
       <mask>*migration*</mask>
       <mask>.class.php</mask>
-      <mask>*.class.php</mask>
       <mask>*.tpl</mask>
       <mask>*Version*</mask>
       <mask>*task*</mask>
+      <mask>*.class.php</mask>
     </recentFileMasks>
   </component>
 </application>
