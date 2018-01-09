@@ -16,8 +16,15 @@
       <mask>cache.inc</mask>
       <mask>rewrite.conf</mask>
       <mask>Version*</mask>
-      <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*module*</mask>
+      <mask>*.gpx</mask>
+      <mask>*migration*</mask>
+      <mask>.class.php</mask>
+      <mask>*.tpl</mask>
+      <mask>*Version*</mask>
+      <mask>*task*</mask>
+      <mask>*.class.php</mask>
     </recentFileMasks>
   </component>
 </application>
