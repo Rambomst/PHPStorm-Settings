@@ -1,14 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="lang" type="JSON" />
       <mapping ext="gpx" type="PHP" />
       <mapping pattern=".config.class.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="diff" type="PLAIN_TEXT" />
       <mapping ext="sites" type="PLAIN_TEXT" />
-      <mapping ext="urls" type="PLAIN_TEXT" />
-      <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="urls" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
