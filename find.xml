@@ -13,8 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.tpl</mask>
     <mask>*report*</mask>
     <mask>*report*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
