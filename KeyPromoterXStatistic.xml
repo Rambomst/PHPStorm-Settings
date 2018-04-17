@@ -38,7 +38,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
     </option>
