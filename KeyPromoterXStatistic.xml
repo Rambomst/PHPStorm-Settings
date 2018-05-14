@@ -57,14 +57,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Find">
-        <Item>
-          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
-          <ShortCut>'Alt+3'</ShortCut>
-          <Description>Find</Description>
-          <Count>131</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
@@ -153,12 +145,22 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Find</Description>
+          <Count>132</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>185</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
     </option>
