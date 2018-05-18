@@ -41,14 +41,6 @@
           <Count>37</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>422</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -147,6 +139,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>424</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
