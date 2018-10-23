@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.4" />
+    <option name="version" value="2.9.5.2" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="009688" />
     <option name="userId" value="3b4eedf4:163f0ce4fc0:-7fff" />
