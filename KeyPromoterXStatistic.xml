@@ -113,6 +113,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Refactor This...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Replace in Path...">
         <Item>
           <IdeaActionID>ReplaceInPath</IdeaActionID>
