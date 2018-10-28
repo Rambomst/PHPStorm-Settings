@@ -89,6 +89,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New Scratch">
+        <Item>
+          <IdeaActionID>Scratch.NewScratch</IdeaActionID>
+          <ShortCut>'Alt+C, Alt+A'</ShortCut>
+          <Description>New Scratch</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
