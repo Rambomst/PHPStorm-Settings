@@ -16,5 +16,6 @@
     <mask>*report*.php</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
